@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "dirent.h": "c",
+        "stdio.h": "c",
+        "PREEMP.C": "cpp",
+        "NONPREEMP.C": "cpp"
+    }
+}
